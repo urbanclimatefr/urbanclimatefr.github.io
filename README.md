@@ -8,12 +8,13 @@ The site is open source (here's all the code!) and is a tool _for_ and _by_ the 
 
 Submit [issues](https://github.com/github/government.github.com/issues/new) and [pull requests](https://github.com/github/government.github.com/compare/) for stories, site ideas or copy edits.
 
-### Certifications
+## Certifications
 
 - Share stories of real world experiences using GitHub in open Government
 - Demystify open source terminology
 - Showcase the community using GitHub to promote connections and sharing between individuals and organizations.
 - Make getting started with GitHub easier
+---
 
 ### Under the Hood
 
