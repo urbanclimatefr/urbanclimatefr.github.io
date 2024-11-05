@@ -10,11 +10,11 @@ Submit [issues](https://github.com/github/government.github.com/issues/new) and 
 
 ## Certifications
 
-- Share stories of real world experiences using GitHub in open Government
-- Demystify open source terminology
-- Showcase the community using GitHub to promote connections and sharing between individuals and organizations.
-- Make getting started with GitHub easier
----
+- [Jekyll](https://jekyllrb.com)
+- [Jekyll](https://jekyllrb.com)
+- [Jekyll](https://jekyllrb.com)
+- [Jekyll](https://jekyllrb.com)
+--
 
 ### Under the Hood
 
