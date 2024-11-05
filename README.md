@@ -1,4 +1,4 @@
-# GitHub and Government [![Test site build](https://github.com/github/government.github.com/actions/workflows/build.yml/badge.svg)](https://github.com/github/government.github.com/actions/workflows/build.yml)
+# Kenneth Chung - Data Engineer 
 
 ![screenshot](assets/img/screenshot.png)
 
@@ -8,7 +8,7 @@ The site is open source (here's all the code!) and is a tool _for_ and _by_ the 
 
 Submit [issues](https://github.com/github/government.github.com/issues/new) and [pull requests](https://github.com/github/government.github.com/compare/) for stories, site ideas or copy edits.
 
-### Goals
+### Certifications
 
 - Share stories of real world experiences using GitHub in open Government
 - Demystify open source terminology
@@ -78,16 +78,3 @@ When you're done with staging and your pull request has been approved, you can m
 
 ----
 
-#### Triage Issues [![Open Source Helpers](https://www.codetriage.com/github/government.github.com/badges/users.svg)](https://www.codetriage.com/github/government.github.com)
-
-In addition to contributing changes, you can help to triage issues. This can include asking for vital information or requesting formatting changes. If you would like to start triaging issues, one easy way to get started is to [subscribe to government.github.com on CodeTriage](https://www.codetriage.com/github/government.github.com).
-
-----
-
-Don't see what you're looking for? Create an [issue](https://github.com/github/government.github.com/issues/new), we'll do our best to help you out.
-
-## License
-
-The data in `_data` is free to use without restriction. For clarity these files, and contributions to these files, are released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
-
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
