@@ -9,6 +9,6 @@
 
 ---
 # AI/Machine Learning
-- [Project 1 - ESG LLM Text Classification](https://learn.microsoft.com/en-us/users/tinyuetchung/credentials/b7951cf08bfe19e2](https://github.com/urbanclimatefr/esg-llm-text-classification)
+- [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
 
 
