@@ -10,5 +10,5 @@
 ---
 # AI/Machine Learning
 - [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
-
-
+- [Project 2 - 0/1 Knapsack Problem](https://github.com/urbanclimatefr/knapsack_problem)
+- [Project 3 - Telecom Customer Churn Prediction](https://github.com/urbanclimatefr/telecom-customer-churn-prediction)
