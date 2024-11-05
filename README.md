@@ -8,7 +8,7 @@
 - [dbt Fundamentals](https://credentials.getdbt.com/5cdefa5e-94df-4761-8019-9b5bf4bacd15#acc.fOYQKS0u)
 
 ---
-# Data Analytics/Data Science/Machine Learning
-- [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/tinyuetchung/credentials/b7951cf08bfe19e2)
+# AI/Machine Learning
+- [Project 1 - ESG LLM Text Classification](https://learn.microsoft.com/en-us/users/tinyuetchung/credentials/b7951cf08bfe19e2](https://github.com/urbanclimatefr/esg-llm-text-classification)
 
 
