@@ -1,16 +1,8 @@
-# Kenneth Chung - Data Engineer 
-
-![screenshot](assets/img/screenshot.png)
-
-Gather, curate, and feature stories of people using GitHub as part of their open government innovations.
-
-The site is open source (here's all the code!) and is a tool _for_ and _by_ the community.
-
-Submit [issues](https://github.com/github/government.github.com/issues/new) and [pull requests](https://github.com/github/government.github.com/compare/) for stories, site ideas or copy edits.
+# Kenneth T. Y. Chung - Data Engineer 
 
 ## Certifications
 
-- [Jekyll](https://jekyllrb.com)
+- [Microsoft Certified: Azure Data Engineer Associate]([https://jekyllrb.com](https://learn.microsoft.com/en-us/users/tinyuetchung/credentials/b7951cf08bfe19e2)
 - [Jekyll](https://jekyllrb.com)
 - [Jekyll](https://jekyllrb.com)
 - [Jekyll](https://jekyllrb.com)
