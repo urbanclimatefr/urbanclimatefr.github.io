@@ -14,7 +14,7 @@ Submit [issues](https://github.com/github/government.github.com/issues/new) and 
 - [Jekyll](https://jekyllrb.com)
 - [Jekyll](https://jekyllrb.com)
 - [Jekyll](https://jekyllrb.com)
---
+---
 
 ### Under the Hood
 
