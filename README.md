@@ -2,7 +2,7 @@
 
 ## Certifications
 
-- [Microsoft Certified: Azure Data Engineer Associate]([https://jekyllrb.com](https://learn.microsoft.com/en-us/users/tinyuetchung/credentials/b7951cf08bfe19e2)
+- [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/tinyuetchung/credentials/b7951cf08bfe19e2)
 - [Jekyll](https://jekyllrb.com)
 - [Jekyll](https://jekyllrb.com)
 - [Jekyll](https://jekyllrb.com)
