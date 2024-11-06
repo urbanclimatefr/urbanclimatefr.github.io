@@ -26,3 +26,5 @@
 - [Project 4 - Sales Spotlight](https://public.tableau.com/app/profile/tinyuet.c/viz/SalesSpotlight_16150715694550/SalesSpotlight)
 - [Project 5 - Shipping Details](https://public.tableau.com/app/profile/tinyuet.c/viz/ShippingDetails_16150139686020/ShippingTrend)
 - [Project 6 - Average Profits by Region](https://public.tableau.com/app/profile/tinyuet.c/viz/AverageProfitsbyRegion/Dashboard1)
+- [Project 7 - Customer Sales versus Customer Profit](https://public.tableau.com/app/profile/tinyuet.c/viz/CustomerSalesversusCustomerProfit__16145845610400/Sheet1)
+- [Project 8 - Death in Games of Thrones](https://public.tableau.com/app/profile/tinyuet.c/viz/DeathinGamesofThrones/Dashboard_all)
