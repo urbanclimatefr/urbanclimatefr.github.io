@@ -20,4 +20,5 @@
   
 ---
 # Business Intelligence & Data Visualisation
-- [Project 1 - Housing Rental Data Analytics](https://github.com/urbanclimatefr/housing_rental_data_analytics)
+- [Project 1 - Are discounted orders more or less profitable than non-discounted orders?](https://public.tableau.com/app/profile/tinyuet.c/viz/Arediscountedordersmoreorlessprofitablethannon-discountedorders_16154641122180/Arediscountedordersmoreorlessprofitablethannon-discountedorders)
+- [Project 2 - Customer Dashboard](https://public.tableau.com/app/profile/tinyuet.c/viz/CustomerDashboard_16153646572280/CustomerDashboard)
