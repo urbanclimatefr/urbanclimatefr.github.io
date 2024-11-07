@@ -10,7 +10,7 @@
 ---
 # Data Engineering
 - [Project 1 - Building APIs with FastAPI](https://github.com/urbanclimatefr/apis-with-fastapi)
-
+- [Project 2 - Apache Spark Fundamentals](https://github.com/urbanclimatefr/apache-spark/tree/main)
 
 ---
 # AI/Machine Learning
