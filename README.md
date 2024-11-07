@@ -12,7 +12,7 @@
 - [Project 1 - Building APIs with FastAPI](https://github.com/urbanclimatefr/apis-with-fastapi)
 - [Project 2 - Apache Spark Fundamentals](https://github.com/urbanclimatefr/apache-spark/tree/main)
 - [Project 3 - Apache Kafka](https://github.com/urbanclimatefr/apache-kafka)
-- [Project 4 -MongoDB Fundamentals](https://github.com/urbanclimatefr/MongoDB)
+- [Project 4 - MongoDB Fundamentals](https://github.com/urbanclimatefr/MongoDB)
 
 ---
 # AI/Machine Learning
