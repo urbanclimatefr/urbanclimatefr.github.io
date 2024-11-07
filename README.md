@@ -16,6 +16,8 @@
 - [Project 5 - Log Analysis with Elasticsearch](https://github.com/urbanclimatefr/Elasticsearch-Log-Analysis)
 - [Project 6 - Snowflake](https://github.com/urbanclimatefr/Snowflake)
 - [Project 7 - dbt](https://github.com/urbanclimatefr/dbt-project)
+- [Project 7 - Databricks](https://github.com/urbanclimatefr/Databricks)
+  
 ---
 # AI/Machine Learning
 - [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
