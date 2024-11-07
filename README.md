@@ -11,7 +11,7 @@
 # Data Engineering
 - [Project 1 - Building APIs with FastAPI](https://github.com/urbanclimatefr/apis-with-fastapi)
 - [Project 2 - Apache Spark Fundamentals](https://github.com/urbanclimatefr/apache-spark/tree/main)
-
+- [Project 3 - Apache Kafka](https://github.com/urbanclimatefr/apache-kafka)
 ---
 # AI/Machine Learning
 - [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
