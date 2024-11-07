@@ -8,6 +8,11 @@
 - [dbt Fundamentals](https://credentials.getdbt.com/5cdefa5e-94df-4761-8019-9b5bf4bacd15#acc.fOYQKS0u)
 
 ---
+# Data Engineering
+- [Project 1 - Building APIs with FastAPI](https://github.com/urbanclimatefr/apis-with-fastapi)
+
+
+---
 # AI/Machine Learning
 - [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
 - [Project 2 - 0/1 Knapsack Problem](https://github.com/urbanclimatefr/knapsack_problem)
