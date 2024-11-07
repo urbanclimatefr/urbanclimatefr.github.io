@@ -14,7 +14,7 @@
 - [Project 3 - Apache Kafka](https://github.com/urbanclimatefr/apache-kafka)
 - [Project 4 - MongoDB Fundamentals](https://github.com/urbanclimatefr/MongoDB)
 - [Project 5 - Log Analysis with Elasticsearch](https://github.com/urbanclimatefr/Elasticsearch-Log-Analysis)
-  
+- [Project 6 - Snowflake](https://github.com/urbanclimatefr/Snowflake)
 ---
 # AI/Machine Learning
 - [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
