@@ -11,12 +11,13 @@
 # Data Engineering
 - [Project 1 - Building APIs with FastAPI](https://github.com/urbanclimatefr/apis-with-fastapi)
 - [Project 2 - Apache Spark Fundamentals](https://github.com/urbanclimatefr/apache-spark/tree/main)
-- [Project 3 - Apache Kafka](https://github.com/urbanclimatefr/apache-kafka)
-- [Project 4 - MongoDB Fundamentals](https://github.com/urbanclimatefr/MongoDB)
-- [Project 5 - Log Analysis with Elasticsearch](https://github.com/urbanclimatefr/Elasticsearch-Log-Analysis)
-- [Project 6 - Snowflake](https://github.com/urbanclimatefr/Snowflake)
-- [Project 7 - dbt](https://github.com/urbanclimatefr/dbt-project)
-- [Project 7 - Databricks](https://github.com/urbanclimatefr/Databricks)
+- [Project 3 - Apache Airflow workflow orchestration](https://github.com/urbanclimatefr/Airflow)
+- [Project 4 - Apache Kafka](https://github.com/urbanclimatefr/apache-kafka)
+- [Project 5 - MongoDB Fundamentals](https://github.com/urbanclimatefr/MongoDB)
+- [Project 6 - Log Analysis with Elasticsearch](https://github.com/urbanclimatefr/Elasticsearch-Log-Analysis)
+- [Project 7 - Snowflake](https://github.com/urbanclimatefr/Snowflake)
+- [Project 8 - dbt](https://github.com/urbanclimatefr/dbt-project)
+- [Project 9 - Databricks](https://github.com/urbanclimatefr/Databricks)
   
 ---
 # AI/Machine Learning
