@@ -1,4 +1,4 @@
-# Kenneth T. Y. Chung - Data Engineer 
+# Kenneth - Data Engineer 
 
 # Certifications
 
