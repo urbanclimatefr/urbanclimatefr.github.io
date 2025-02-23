@@ -18,7 +18,7 @@
 - [Project 7 - Snowflake](https://github.com/urbanclimatefr/Snowflake)
 - [Project 8 - dbt](https://github.com/urbanclimatefr/dbt-project)
 - [Project 9 - Databricks](https://github.com/urbanclimatefr/Databricks)
-- [Project 10 - Azure Data Factory -Covid 19](https://github.com/urbanclimatefr/Databricks)
+- [Project 10 - Azure Data Factory -Covid 19](https://github.com/urbanclimatefr/adf_de_covid19)
 ---
 # AI/Machine Learning
 - [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
