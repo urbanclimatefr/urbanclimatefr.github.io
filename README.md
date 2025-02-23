@@ -19,6 +19,8 @@
 - [Project 8 - dbt](https://github.com/urbanclimatefr/dbt-project)
 - [Project 9 - Databricks](https://github.com/urbanclimatefr/Databricks)
 - [Project 10 - Azure Data Factory -Covid 19](https://github.com/urbanclimatefr/adf_de_covid19)
+- [Project 11 - Data Engineering Zoomcamp 2025](https://github.com/urbanclimatefr/de-zoomcamp-2025)
+  
 ---
 # AI/Machine Learning
 - [Project 1 - ESG LLM Text Classification](https://github.com/urbanclimatefr/esg-llm-text-classification)
