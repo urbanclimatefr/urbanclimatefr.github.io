@@ -1,4 +1,4 @@
-# Kenneth - Data Engineer 
+# Kenneth - Data Professional
 
 # Certifications
 
